@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462391502366",
+    "project_id": "messengerapp-eec55",
+    "storage_bucket": "messengerapp-eec55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462391502366:android:fc81ee813f7aea30edb00f",
+        "android_client_info": {
+          "package_name": "com.gvs.messengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462391502366-kvrg2a1hvg4rsstmlurut6iprii4rc79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1aVKUYkaQ8JPNE7gVLbJKDJKWT-i_0jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462391502366-kvrg2a1hvg4rsstmlurut6iprii4rc79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
